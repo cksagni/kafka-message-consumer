@@ -1,4 +1,4 @@
-# A project to learn and experiment with the basics of spring boot
+# A project to learn and experiment with the basics of spring boot CRUD operations.
 
 # Use maven plugin to package jar
 $ ./mvnw package
